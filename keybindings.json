@@ -3,51 +3,51 @@
   {
     "key": "ctrl+shift+h",
     "command": "settings.cycle.toggleHoverTooltip",
-    "when": "editorFocus"
+    "when": "editorFocus",
   },
   {
     "key": "cmd+u",
     "command": "workbench.action.splitEditor", // copies tab to new split group
-    "when": "editorFocus"
+    "when": "editorFocus",
   },
   {
     "key": "cmd+[",
     "command": "workbench.action.moveEditorToPreviousGroup", // move tab left across split groups
-    "when": "editorFocus"
+    "when": "editorFocus",
   },
   {
     "key": "cmd+]",
     "command": "workbench.action.moveEditorToNextGroup", // move tab right across split groups
-    "when": "editorFocus"
+    "when": "editorFocus",
   },
   {
     "key": "ctrl+[",
     "command": "workbench.action.moveEditorLeftInGroup", // move tab left in group
-    "when": "editorFocus"
+    "when": "editorFocus",
   },
   {
     "key": "ctrl+]",
     "command": "workbench.action.moveEditorRightInGroup", // move tab right in group
-    "when": "editorFocus"
+    "when": "editorFocus",
   },
   {
     "key": "shift+cmd+[",
     "command": "workbench.action.previousEditor", // change tab focus left
-    "when": "editorFocus"
+    "when": "editorFocus",
   },
   {
     "key": "shift+cmd+]",
     "command": "workbench.action.nextEditor", // change tab focus right
-    "when": "editorFocus"
+    "when": "editorFocus",
   },
   {
     "key": "shift+cmd+[",
     "command": "workbench.action.terminal.focusPreviousPane", // change terminal tab focus left
-    "when": "terminalFocus"
+    "when": "terminalFocus",
   },
   {
     "key": "shift+cmd+]",
     "command": "workbench.action.terminal.focusNextPane", // change terminal tab focus right
-    "when": "terminalFocus"
-  }
+    "when": "terminalFocus",
+  },
 ]
